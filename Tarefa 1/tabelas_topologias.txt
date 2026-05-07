@@ -1,0 +1,140 @@
+% Arquivo gerado automaticamente com os resultados das topologias
+
+
+% ======================================
+% TABELA LATEX PARA: Regra_do_Valor_Medio
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Resumo Estatístico - Topologia Regra do Valor Medio}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Métrica} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Acurácia & 0.8787 & 0.0461 & 0.9429 & 0.5821 \\
+Sensibilidade & 0.9883 & 0.0474 & 1.0000 & 0.4308 \\
+Especificidade & 0.6034 & 0.1262 & 0.9390 & 0.2892 \\
+Precisão & 0.8636 & 0.0385 & 0.9479 & 0.7625 \\
+F1-Score & 0.9205 & 0.0357 & 0.9635 & 0.5895 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Kolmogorov
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Resumo Estatístico - Topologia Kolmogorov}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Métrica} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Acurácia & 0.9829 & 0.0111 & 1.0000 & 0.9036 \\
+Sensibilidade & 0.9914 & 0.0100 & 1.0000 & 0.8966 \\
+Especificidade & 0.9615 & 0.0320 & 1.0000 & 0.7867 \\
+Precisão & 0.9849 & 0.0125 & 1.0000 & 0.9269 \\
+F1-Score & 0.9881 & 0.0078 & 1.0000 & 0.9302 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Erro_Tolerado
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Resumo Estatístico - Topologia Erro Tolerado}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Métrica} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Acurácia & 0.9860 & 0.0096 & 1.0000 & 0.9500 \\
+Sensibilidade & 0.9957 & 0.0056 & 1.0000 & 0.9378 \\
+Especificidade & 0.9619 & 0.0319 & 1.0000 & 0.8444 \\
+Precisão & 0.9850 & 0.0126 & 1.0000 & 0.9314 \\
+F1-Score & 0.9903 & 0.0067 & 1.0000 & 0.9645 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Saturacao_Analitica
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Resumo Estatístico - Topologia Saturacao Analitica}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Métrica} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Acurácia & 0.9814 & 0.0194 & 1.0000 & 0.7071 \\
+Sensibilidade & 0.9972 & 0.0038 & 1.0000 & 0.9668 \\
+Especificidade & 0.9416 & 0.0695 & 1.0000 & 0.0000 \\
+Precisão & 0.9777 & 0.0205 & 1.0000 & 0.7071 \\
+F1-Score & 0.9872 & 0.0117 & 1.0000 & 0.8285 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Lang_Witbrock
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Resumo Estatístico - Topologia Lang Witbrock}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Métrica} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Acurácia & 0.9945 & 0.0063 & 1.0000 & 0.9000 \\
+Sensibilidade & 0.9966 & 0.0068 & 1.0000 & 0.8731 \\
+Especificidade & 0.9894 & 0.0130 & 1.0000 & 0.9155 \\
+Precisão & 0.9958 & 0.0051 & 1.0000 & 0.9694 \\
+F1-Score & 0.9962 & 0.0046 & 1.0000 & 0.9247 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Superdimensionada
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Resumo Estatístico - Topologia Superdimensionada}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Métrica} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Acurácia & 0.9181 & 0.1288 & 1.0000 & 0.2500 \\
+Sensibilidade & 0.9957 & 0.0447 & 1.0000 & 0.0000 \\
+Especificidade & 0.7290 & 0.4327 & 1.0000 & 0.0000 \\
+Precisão & 0.9181 & 0.1322 & 1.0000 & 0.0000 \\
+F1-Score & 0.9504 & 0.0847 & 1.0000 & 0.0000 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+

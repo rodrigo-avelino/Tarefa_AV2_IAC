@@ -1,0 +1,107 @@
+% Arquivo gerado com os resultados do simulador final
+
+
+% ======================================
+% TABELA LATEX PARA: Acurácia (Comparativo)
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Desempenho Comparativo - Acurácia}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Modelos} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Perceptron & 0.7096 & 0.0846 & 0.8571 & 0.2643 \\
+Adaline & 0.7852 & 0.0230 & 0.8464 & 0.7107 \\
+MLP & 0.9944 & 0.0049 & 1.0000 & 0.9643 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Sensibilidade (Comparativo)
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Desempenho Comparativo - Sensibilidade}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Modelos} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Perceptron & 0.8027 & 0.1752 & 1.0000 & 0.0100 \\
+Adaline & 0.8809 & 0.0268 & 0.9529 & 0.7889 \\
+MLP & 0.9968 & 0.0039 & 1.0000 & 0.9695 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Especificidade (Comparativo)
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Desempenho Comparativo - Especificidade}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Modelos} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Perceptron & 0.4797 & 0.2549 & 1.0000 & 0.0000 \\
+Adaline & 0.5484 & 0.0505 & 0.7000 & 0.3735 \\
+MLP & 0.9885 & 0.0148 & 1.0000 & 0.8837 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: Precisão (Comparativo)
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Desempenho Comparativo - Precisão}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Modelos} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Perceptron & 0.8041 & 0.0636 & 1.0000 & 0.5161 \\
+Adaline & 0.8292 & 0.0240 & 0.8981 & 0.7547 \\
+MLP & 0.9953 & 0.0061 & 1.0000 & 0.9510 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
+
+% ======================================
+% TABELA LATEX PARA: F1-Score (Comparativo)
+% ======================================
+\begin{table}[htbp]
+\centering
+\caption{Desempenho Comparativo - F1-Score}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Modelos} & \textbf{Média} & \textbf{Desv. Pad} & \textbf{Máximo} & \textbf{Mínimo} \\
+\midrule
+Perceptron & 0.7878 & 0.0964 & 0.9123 & 0.0197 \\
+Adaline & 0.8539 & 0.0169 & 0.8964 & 0.7980 \\
+MLP & 0.9961 & 0.0035 & 1.0000 & 0.9749 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% ======================================
+
