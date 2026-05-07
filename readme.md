@@ -16,7 +16,7 @@ O trabalho explora a dualidade entre complexidade geométrica e dimensionalidade
  ┃ ┣ 📜 main.py            # Orquestrador da simulação
  ┃ ┗ 📜 scprit.py          # Script de análise de separabilidade
  ┣ 📂 analises/            # Resultados (Matrizes, Curvas e Boxplots)
- ┣ 📂 relatorio/           # Documentação técnica em PDF
+ ┣ 📂 documentos/           # Documentação técnica em PDF
  ┣ 📜 requirements.txt     # Dependências do projeto
  ┗ 📜 README.md            # Documentação principal
 
