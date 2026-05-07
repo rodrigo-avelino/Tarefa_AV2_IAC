@@ -26,8 +26,8 @@ Os classificadores (Perceptron, Adaline e MLP) foram desenvolvidos **integralmen
 
 - **NumPy:** Operações matriciais e Backpropagation.
 - **Matplotlib & Seaborn:** Visualização estatística.
-- **OpenCV & PIL:** Pré-processamento de imagem.
-- **Scikit-Learn:** Auxílio em normalização e projeções (LDA/t-SNE).
+- **OpenCV:** Pré-processamento de imagem.
+- **PIL & Scikit-Learn:** Auxílio em normalização e projeções (LDA/t-SNE)(apenas no diretorio da visualição das dimensões).
 
 ## 🚀 Como Executar
 
